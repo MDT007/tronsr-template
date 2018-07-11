@@ -1,8 +1,8 @@
 ![](http://new.mdt.co/wp-content/uploads/2018/07/640-1024x806.jpeg)
-Heatherm Huang, co-founder of MDT. <br>
+**Heatherm Huang, co-founder of MDT.** <br>
 Seven years ago, Heatherm designed Talkbox Messenger, one of the first voice messenger apps, which had 13 million users. His second product MailTime Email Messenger debuted at the TechCrunch Disrupt, was awarded as “Best of 2015” by Apple with over 7 million users. Other than that, Heatherm’s team started an email intelligence company called Measurable AI, analyzing up to 15 billion anonymous consumer data. His experience in both consumer products and big data led to his latest venture - Measurable Data Token, a decentralized data exchange economy. 
 
-Gary Lau - CTO
+**Gary Lau - CTO
 <br>
 Michael Zhou - COO
 <br>
@@ -29,4 +29,4 @@ Aoni Wang - Design
 Julie Liao - PR
 <br>
 Carina Zhang - Communications 
-<br>
+<br>**
