@@ -34,6 +34,6 @@ Julie Liao - Public Relations
 Carina Zhang - Communications 
 
 
-The MDT team are veterans of consumer apps and big data. They have successfully developed two popular messenger apps, MailTime (with 7 million users) and Talkbox Voice Messenger (which was the first voice messenger app with 13 million users) and an email intelligence product Measurable AI syncing over 15 billion anonymous data.
+**The MDT team are veterans of consumer apps and big data.** They have successfully developed two popular messenger apps, MailTime (with 7 million users) and Talkbox Voice Messenger (which was the first voice messenger app with 13 million users) and an email intelligence product Measurable AI syncing over 15 billion anonymous data.
 
-The team has successfully raised over $3.5M VC funding from investors including Mark Pincus (Founder of Zynga), ZhenFund, Gary Rieschel (Qiming, Softbank), Crystal Stream (VP of Engineering of Baidu), Y Combinator, and DHVC. 
+**The team has successfully raised over $3.5M VC funding from investors including Mark Pincus (Founder of Zynga), ZhenFund, Gary Rieschel (Qiming, Softbank), Crystal Stream (VP of Engineering of Baidu), Y Combinator, and DHVC. **
