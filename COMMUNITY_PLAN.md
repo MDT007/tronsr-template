@@ -3,7 +3,7 @@
                                        
 1.MDT's very own Reward System will allow any compatible application to start its task-based reward platform. 
 
-2.The MDT Wallet will support TRX to MDT Swap.
+2.TRON X MDT community support and engagement.
 
 3.MDT's all channel Social Media Accounts with over 200,000 members will support TRONSR campaign.
 
