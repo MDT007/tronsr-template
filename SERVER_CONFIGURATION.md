@@ -1,7 +1,6 @@
 ![](http://new.mdt.co/wp-content/uploads/2018/07/tron_mdt_usa-02.png)
 ![](http://new.mdt.co/wp-content/uploads/2018/07/tron_mdt_singapore-02.png)
-**Microsoft Azure Cloud Computing**
-Virtual Machine:
+**Microsoft Azure Cloud Computing Virtual Machine**:
 
 M64s: 64 vCPU(s), 1T RAM, 2T Temp Storage
 
