@@ -1,5 +1,5 @@
                           Measurable Data Token (MDT) - Decentralized Data Exchange Economy                                                                  
-Website: https://www.mdt.co/  Twitter: https://twitter.com/MeasurableData       Telegram: https://twitter.com/MeasurableData
+Website: https://www.mdt.co/  Twitter: https://twitter.com/MeasurableData    Telegram: https://twitter.com/MeasurableData
 
 
 Reddit: https://www.reddit.com/r/MeasurableDataToken/          Medium: https://medium.com/@measurabledata
