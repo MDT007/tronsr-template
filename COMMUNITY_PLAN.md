@@ -1,4 +1,4 @@
-                                Thank you all for the support for TRON X MDT！
+                                Thank you all for the support of TRON X MDT！
 ![](http://new.mdt.co/wp-content/uploads/2018/07/tron_mdt_comm-01.png)           
                                        
 1.MDT's very own Reward System will allow any compatible application to start its task-based reward platform. 
