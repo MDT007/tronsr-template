@@ -11,9 +11,9 @@ P30: 1T SSD, 5K IOPS, 200 MB/Sec
 **Cloud Locations**: 
 Washington, USA and Singapore
 
-We choose West USA and Southeast Asia with dual-system backup and our primary TRON block producer will be hosted on Google cloud and Azure.
+1. We choose West USA and Southeast Asia with dual-system backup and our primary TRON block producer will be hosted on Google cloud and Azure.
 
-Each location will have multiple nodes behind the network load balancer with multiple firewalls in order to provide better stability and data security performance.
+2. Each location will have multiple nodes behind the network load balancer with multiple firewalls in order to provide better stability and data security performance.
 
 **Planning For Scale**
 **Security**:
