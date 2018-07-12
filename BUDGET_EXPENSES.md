@@ -1,4 +1,4 @@
-Our Servers:
+**Our Servers**:
 
 West US 2 (Washington) - US$59,895
 
