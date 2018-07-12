@@ -23,7 +23,7 @@ Carson Ip - Engineering
 <br>
 Maxi Cho - Engineering
 <br>
-Matt - Engineering
+Matt Mo - Engineering
 <br>
 Aoni Wang - Design
 <br>
