@@ -16,6 +16,7 @@ Washington, USA and Singapore
 2. Each location will have multiple nodes behind the network load balancer with multiple firewalls in order to provide better stability and data security performance.
 
 **Planning For Scale**
+
 **Security**:
 1.         DDoS attack protection: stop attacks in minutes with our cloud solution.
 
